@@ -1,0 +1,42 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-10-25-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8350825" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.24313726" />
+    <property name="InstalledPluginsSearchHistory" value="unit&#10;unity" />
+    <property name="KEYMAP" value="play/e&#10;play" />
+    <property name="PLUGIN_FILTER" value="plant" />
+    <property name="PluginConfigurable.selectionTab" value="2" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.20028819" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SearchEveryWhereHistory" value="_" />
+    <property name="SettingsSearchHistory" value="setting repo&#10;share&#10;Tab,Indent&#10;nunit&#10;Test framework" />
+    <property name="TrendingPluginsSearchHistory" value="Test framework&#10;twitter&#10;translation&#10;presentation&#10;rainbow" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.7.2" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.181" value="1651c3fe378" />
+    <property name="evlsprt.182" value="16734a85497" />
+    <property name="evlsprt2.181" value="164e8c1a03b" />
+    <property name="evlsprt2.182" value="166e1cb6214" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/Rider/new-settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/TestRiderSettings&#10;/Users/masujima.ryohei/RiderSettings&#10;/Users/masujima.ryohei/Documents/new-settings.zip&#10;/Users/masujima.ryohei/Downloads/G2StudiosCodeStyle.zip&#10;/Users/masujima.ryohei/Desktop/settings.zip&#10;/Users/masujima.ryohei/Downloads/G2StudiosCodeStyle/codestyles&#10;/Users/masujima.ryohei/Downloads/G2StudiosCodeStyle&#10;/Users/masujima.ryohei/Downloads/red-background-texture-vector-11257331.jpg&#10;/Users/masujima.ryohei/Desktop/LiveTempleteSubscribe.gif&#10;/Users/masujima.ryohei/Desktop/mr_header.jpg&#10;/Users/masujima.ryohei/Desktop/picMasujimaWithRed.png&#10;/Users/masujima.ryohei/Desktop/Twitter_header_mr.jpg" />
+    <property name="file.gist.reindex.count" value="423" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Documents/Projects/JaRaRa/Front/Jra_Project" />
+    <property name="last_selected_template" value="Console Application|.NET" />
+    <property name="last_selected_template_parameters" value="Type=nUnit;Language=C#;Auth=SingleOrg;PathToUnityEngine=/Applications/Unity/Hub/Editor/2019.3.0b5/Unity.app/Contents/Managed/UnityEngine.dll;Framework=v4.7.2;" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Desktop/Twitter_header_mr.jpg&#10;/Users/masujima.ryohei/Desktop/mr_header.jpg&#10;/Users/masujima.ryohei/Desktop/LiveTempleteSubscribe.gif&#10;/Users/masujima.ryohei/Downloads/red-background-texture-vector-11257331.jpg" />
+    <property name="selected.color.option.type" value="DEFAULT_ATTRIBUTE" />
+    <property name="settings.code.style.selected.tab.C#" value="Code Style" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
